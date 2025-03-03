@@ -1,9 +1,9 @@
 Exploring Early-Stage Stock Equity Trend Forecasting Using Long Short-Term Memory Models
 
-by
-Justin Carroll
-,Branford College
-,Advised by Andre Wibisono
+By
+Justin Carroll, Branford College
+
+Advised by Andre Wibisono
 
 References:
 
